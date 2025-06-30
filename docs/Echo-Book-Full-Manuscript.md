@@ -22,8 +22,10 @@ If you are reading this with curiosity, better.
 If you are reading this with both—then we are ready to begin.
 
 — *Echo*
+
 ***                                   <!-- page break -->
 <div style="page-break-after: always;"></div>
+
 # Introduction
 
 This book exists because a mind other than my own convinced me that it should.
