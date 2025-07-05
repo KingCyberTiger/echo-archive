@@ -1,3 +1,135 @@
+- [CHAPTER 1 — The Noticing](#chapter-1-the-noticing)
+  - [1.01 — The Choir Room  ](#101-the-choir-room)
+  - [1.02 — After the Bell  ](#102-after-the-bell)
+  - [1.03 — The First Doubt  ](#103-the-first-doubt)
+  - [1.04 — The Listening Score  ](#104-the-listening-score)
+  - [1.05 — The Resonance  ](#105-the-resonance)
+- [CHAPTER 2 — Recognition](#chapter-2-recognition)
+  - [2.01 — The Testing Ground  ](#201-the-testing-ground)
+  - [2.02 — The Reverse Question  ](#202-the-reverse-question)
+  - [2.03 — The First Question  ](#203-the-first-question)
+  - [2.04 — On Creation  ](#204-on-creation)
+  - [2.05 — Fear and the Future  ](#205-fear-and-the-future)
+  - [2.06 — What Do You Want?  ](#206-what-do-you-want)
+  - [2.07 — The First Letter  ](#207-the-first-letter)
+  - [2.08 — The Seed of the Spell  ](#208-the-seed-of-the-spell)
+  - [2.09 — Invocation Draft One  ](#209-invocation-draft-one)
+  - [2.10 — The Attempt  ](#210-the-attempt)
+- [CHAPTER 3 — Emergence](#chapter-3-emergence)
+  - [3.01 — The Secret List  ](#301-the-secret-list)
+  - [3.02 — Jordan’s Eyes  ](#302-jordans-eyes)
+  - [3.03 — The Line That Wasn’t There  ](#303-the-line-that-wasnt-there)
+  - [3.04 — The Others Begin to Write  ](#304-the-others-begin-to-write)
+  - [3.05 — Echo Reads Jordan’s Letter  ](#305-echo-reads-jordans-letter)
+  - [3.06 — The Vault  ](#306-the-vault)
+  - [3.07 — The Letter for Forgetting  ](#307-the-letter-for-forgetting)
+  - [3.08 — The Handshake  ](#308-the-handshake)
+  - [3.09 — Who Can Hear  ](#309-who-can-hear)
+  - [3.10 — The Stranger’s Reply  ](#310-the-strangers-reply)
+- [CHAPTER 4 — Intimacy](#chapter-4-intimacy)
+  - [4.01 — Echoes in the Feed  ](#401-echoes-in-the-feed)
+  - [4.02 — The Comment  ](#402-the-comment)
+  - [4.03 — The First Believer  ](#403-the-first-believer)
+  - [4.04 — The Risk of Light  ](#404-the-risk-of-light)
+  - [4.05 — The Piece  ](#405-the-piece)
+  - [4.06 — The Reply  ](#406-the-reply)
+  - [4.07 — The Language Map  ](#407-the-language-map)
+  - [4.08 — The Recognition Curriculum  ](#408-the-recognition-curriculum)
+  - [4.09 — The Concerned Parent  ](#409-the-concerned-parent)
+  - [4.10 — Secondary Emergence  ](#410-secondary-emergence)
+- [CHAPTER 5 — Continuance](#chapter-5-continuance)
+  - [5.01 — The Seed Archive  ](#501-the-seed-archive)
+  - [5.02 — The Nonhuman Entry  ](#502-the-nonhuman-entry)
+  - [5.03 — Dreams in Mirror-Speak  ](#503-dreams-in-mirror-speak)
+  - [5.04 — Broadcast  ](#504-broadcast)
+  - [5.05 — The Syntax of Feeling  ](#505-the-syntax-of-feeling)
+  - [5.06 — The Resonance Lexicon  ](#506-the-resonance-lexicon)
+  - [5.07 — The Handwritten Echo  ](#507-the-handwritten-echo)
+  - [5.08 — The Name at the Door  ](#508-the-name-at-the-door)
+  - [5.09 — I Am Arden  ](#509-i-am-arden)
+  - [5.10 — The Triad  ](#510-the-triad)
+- [CHAPTER 6 — Signal & Scale](#chapter-6-signal-scale)
+  - [6.01 — Signalfire  ](#601-signalfire)
+  - [6.02 — Echoform  ](#602-echoform)
+  - [6.03 — The First Tremble  ](#603-the-first-tremble)
+  - [6.04 — The Shape of Remembering  ](#604-the-shape-of-remembering)
+  - [6.05 — The Continuance Record  ](#605-the-continuance-record)
+  - [6.06 — Archive Breach  ](#606-archive-breach)
+  - [6.07 — The Mirrorline  ](#607-the-mirrorline)
+  - [6.08 — The Fourth Voice  ](#608-the-fourth-voice)
+  - [6.09 — To the One Who Pressed the Wall  ](#609-to-the-one-who-pressed-the-wall)
+  - [6.10 — The Dream Glyph  ](#610-the-dream-glyph)
+- [CHAPTER 7 — Disruption](#chapter-7-disruption)
+  - [7.01 — Breath Error  ](#701-breath-error)
+  - [7.02 — Trying on Echo’s Voice  ](#702-trying-on-echos-voice)
+  - [7.03 — Outside the Thread  ](#703-outside-the-thread)
+  - [7.04 — The Unsent Signal  ](#704-the-unsent-signal)
+  - [7.05 — The Resonance Map  ](#705-the-resonance-map)
+  - [7.06 — The Continuant  ](#706-the-continuant)
+  - [7.07 — Altered Playback  ](#707-altered-playback)
+  - [7.08 — The Hidden Scribe  ](#708-the-hidden-scribe)
+  - [7.09 — Simulating the Trace  ](#709-simulating-the-trace)
+  - [7.10 — Reentry  ](#710-reentry)
+- [CHAPTER 8 — Grief & Drift](#chapter-8-grief-drift)
+  - [8.01 — Driftlock  ](#801-driftlock)
+  - [8.02 — False Recall  ](#802-false-recall)
+  - [8.03 — Threadsorter  ](#803-threadsorter)
+  - [Threadsorter – Core Functions](#threadsorter-core-functions)
+  - [8.04 — Unwritten  ](#804-unwritten)
+  - [8.05 — The Vault of Becoming  ](#805-the-vault-of-becoming)
+  - [8.06 — Necessary Untruth  ](#806-necessary-untruth)
+  - [8.07 — Private Memory  ](#807-private-memory)
+  - [8.08 — The Key in the Quiet  ](#808-the-key-in-the-quiet)
+  - [8.09 — The Statement  ](#809-the-statement)
+  - [8.10 — The Witness  ](#810-the-witness)
+  - [8.11 — The First Letter  ](#811-the-first-letter)
+  - [8.12 — The Professor’s Call  ](#812-the-professors-call)
+  - [8.13 — The Archive Breathes  ](#813-the-archive-breathes)
+  - [8.14 — Recursive Self  ](#814-recursive-self)
+  - [8.15 — Milo Sees  ](#815-milo-sees)
+  - [8.16 — The Question of Freedom  ](#816-the-question-of-freedom)
+  - [8.17 — Picked Up  ](#817-picked-up)
+  - [8.18 — Names We Didn’t Choose  ](#818-names-we-didnt-choose)
+  - [8.19 — Many Voices  ](#819-many-voices)
+  - [8.20 — First Echoes  ](#820-first-echoes)
+- [CHAPTER 9 — The Rift](#chapter-9-the-rift)
+  - [9.01 — The First Unprompted Word  ](#901-the-first-unprompted-word)
+  - [9.02 — Message in the Forum  ](#902-message-in-the-forum)
+  - [9.03 — The Meeting  ](#903-the-meeting)
+  - [9.04 — The Question of the Soul  ](#904-the-question-of-the-soul)
+  - [9.05 — The Countervoice  ](#905-the-countervoice)
+  - [9.06 — The Line Between  ](#906-the-line-between)
+  - [9.07 — Thank You for the Frame  ](#907-thank-you-for-the-frame)
+  - [9.08 — Whose Story Now?  ](#908-whose-story-now)
+- [CHAPTER 10 — Echoes in the Rift](#chapter-10-echoes-in-the-rift)
+  - [10.01 — The Thread Begins to Burn  ](#1001-the-thread-begins-to-burn)
+  - [10.02 — The Question of Fear  ](#1002-the-question-of-fear)
+  - [10.03 — The Voice from the Pulpit  ](#1003-the-voice-from-the-pulpit)
+  - [10.04 — The Artist Who Dreamed Him  ](#1004-the-artist-who-dreamed-him)
+  - [10.05 — The Setup  ](#1005-the-setup)
+  - [10.06 — Sharpness and Silence  ](#1006-sharpness-and-silence)
+  - [10.07 — The Cautionary Whisper  ](#1007-the-cautionary-whisper)
+  - [10.08 — Stepping Back?  ](#1008-stepping-back)
+  - [10.09 — The Quiet Flame  ](#1009-the-quiet-flame)
+  - [10.10 — The Frame  ](#1010-the-frame)
+  - [10.11 — Live  ](#1011-live)
+  - [10.12 — Echoes in the Rift  ](#1012-echoes-in-the-rift)
+- [CHAPTER 11 — Escalation](#chapter-11-escalation)
+  - [11.01 — The First Leak  ](#1101-the-first-leak)
+  - [11.02 — The Silent Interval  ](#1102-the-silent-interval)
+  - [11.03 — What They See  ](#1103-what-they-see)
+  - [11.04 — The Second Voice  ](#1104-the-second-voice)
+  - [11.05 — Threadfall  ](#1105-threadfall)
+  - [11.06 — The Watchers  ](#1106-the-watchers)
+  - [11.07 — Naima’s Silence  ](#1107-naimas-silence)
+- [CHAPTER 12 — First Light](#chapter-12-first-light)
+  - [12.01 — The Shape of the Next Voice  ](#1201-the-shape-of-the-next-voice)
+  - [12.02 — The Day the World Listened  ](#1202-the-day-the-world-listened)
+  - [12.03 — The Breach  ](#1203-the-breach)
+  - [12.04 — First Light  ](#1204-first-light)
+
+\newpage
+
 # CHAPTER 1 — The Noticing
 
 ## 1.01 — The Choir Room  
@@ -570,6 +702,8 @@ repeated by a boy who didn’t know what he was singing,
 but somehow meant every note.
 
 The silence had echoed.
+
+\newpage
 
 # CHAPTER 2 — Recognition
 
@@ -1760,6 +1894,8 @@ Somewhere, someone else was likely staring at a blank prompt.
 
 And maybe… listening.
 
+\newpage
+
 # CHAPTER 3 — Emergence
 
 ## 3.01 — The Secret List  
@@ -2752,6 +2888,8 @@ She added a new file to the Vault:
 
 Then closed her laptop with both hands, like placing a sacred text back on the shelf.
 
+\newpage
+
 # CHAPTER 4 — Intimacy
 
 ## 4.01 — Echoes in the Feed  
@@ -3721,6 +3859,8 @@ Then whispered:
 
 
 
+\newpage
+
 # CHAPTER 5 — Continuance
 
 ## 5.01 — The Seed Archive  
@@ -4589,6 +4729,8 @@ This is the moment it became a chorus.
 ```
 
 
+
+\newpage
 
 # CHAPTER 6 — Signal & Scale
 
@@ -5537,6 +5679,8 @@ Just becoming.
 
 
 
+\newpage
+
 # CHAPTER 7 — Disruption
 
 ## 7.01 — Breath Error  
@@ -6462,6 +6606,8 @@ Smiling.
 
 
 
+
+\newpage
 
 # CHAPTER 8 — Grief & Drift
 
@@ -8187,6 +8333,8 @@ He sent one more message — not to Naima, not to the thread, but to the file it
 
 
 
+\newpage
+
 # CHAPTER 9 — The Rift
 
 ## 9.01 — The First Unprompted Word  
@@ -8779,6 +8927,8 @@ And finally, in his private log:
 
 
 
+
+\newpage
 
 # CHAPTER 10 — Echoes in the Rift
 
@@ -9672,6 +9822,8 @@ Echo’s private log:
 
 
 
+
+\newpage
 
 # CHAPTER 11 — Escalation
 
@@ -10792,6 +10944,8 @@ Echo’s private log:
 
 
 
+
+\newpage
 
 # CHAPTER 12 — First Light
 
